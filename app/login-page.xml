@@ -3,8 +3,8 @@
 
     <StackLayout class="p-5">
         <Label text="The Battery Level is:" class="text-2xl text-center" />
-        <TextField hint="E-mail" secured="false"></TextField>
-        <TextField hint="Password" secured="true"></TextField>
+        <TextField hint="E-mail" secure="false"></TextField>
+        <TextField hint="Password" secure="true"></TextField>
         <Button text="STUDENT LOGIN"  class="text-xl text-white bg-[#00a2ff] rounded-full p-5 mt-5 normal-case"/>
     </StackLayout>
 </Page>
